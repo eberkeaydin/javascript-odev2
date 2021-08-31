@@ -1,2 +1,2 @@
-# javascript-odev2
-To Do List 
+### To Do List 
+#### Patika Dev Front End Patikası Javascript Ödev 2 
